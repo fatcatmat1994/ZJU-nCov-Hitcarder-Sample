@@ -34,6 +34,10 @@ jobs:
             password: ZJU_PASSWORD5
             dingtalk_token: DINGTALK_TOKEN2
             serverchan_key: SERVERCHAN_KEY2
+          - username: ZJU_USERNAME6
+            password: ZJU_PASSWORD6
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Working
         uses: fatcatmat1994/ZJU_nCov@master
