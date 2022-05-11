@@ -39,6 +39,14 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
     steps:
+      - name: Setup Python
+        uses: actions/setup-python@v3.1.0
+        with:
+          python-version: 3.9
+      - name: Install packages
+        run: |
+          pip3 install requests
+          pip3 install ddddocr
       - name: Working
         uses: fatcatmat1994/ZJU_nCov@master
         with:
