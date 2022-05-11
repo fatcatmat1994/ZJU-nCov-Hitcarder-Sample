@@ -20,20 +20,20 @@ jobs:
             serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME2
             password: ZJU_PASSWORD2
-            dingtalk_token: DINGTALK_TOKEN2
-            serverchan_key: SERVERCHAN_KEY2
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME3
             password: ZJU_PASSWORD3
-            dingtalk_token: DINGTALK_TOKEN2
-            serverchan_key: SERVERCHAN_KEY2
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME4
             password: ZJU_PASSWORD4
-            dingtalk_token: DINGTALK_TOKEN2
-            serverchan_key: SERVERCHAN_KEY2
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME5
             password: ZJU_PASSWORD5
-            dingtalk_token: DINGTALK_TOKEN2
-            serverchan_key: SERVERCHAN_KEY2
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME6
             password: ZJU_PASSWORD6
             dingtalk_token: DINGTALK_TOKEN
