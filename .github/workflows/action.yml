@@ -16,26 +16,32 @@ jobs:
         include:
           - username: ZJU_USERNAME
             password: ZJU_PASSWORD
+            strname: ZJU_STRNAME
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME2
             password: ZJU_PASSWORD2
+            strname: ZJU_STRNAME2
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME3
             password: ZJU_PASSWORD3
+            strname: ZJU_STRNAME3
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME4
             password: ZJU_PASSWORD4
+            strname: ZJU_STRNAME4
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME5
             password: ZJU_PASSWORD5
+            strname: ZJU_STRNAME5
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
           - username: ZJU_USERNAME6
             password: ZJU_PASSWORD6
+            strname: ZJU_STRNAME6
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
     steps:
