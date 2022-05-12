@@ -52,6 +52,7 @@ jobs:
       - name: Working
         uses: fatcatmat1994/ZJU_nCov@master
         with:
+          strname: ${{ secrets[matrix.strname] }}
           username: ${{ secrets[matrix.username] }}
           password: ${{ secrets[matrix.password] }}
           dingtalk_token: ${{ secrets[matrix.dingtalk_token] }}
