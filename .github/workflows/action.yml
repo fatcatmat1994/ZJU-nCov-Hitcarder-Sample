@@ -44,6 +44,11 @@ jobs:
             strname: ZJU_STRNAME6
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
+          - username: XUMIAOSHANXUEHAO
+            password: XUMIAOSHANPASSWORD
+            strname: ZJU_STRNAME7
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Setup Python
         uses: actions/setup-python@v3.1.0
